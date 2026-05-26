@@ -43,8 +43,14 @@ python3 scripts/research-health.py
 - panduan kontribusi: lihat `CONTRIBUTING.md`
 - monetisasi donasi: lihat `DONATE.md` dan `.github/FUNDING.yml`
 
+## Keamanan & Placeholder
+
+- **GANTI semua nilai placeholder** sebelum menggunakan repo ini.
+- File `.env.example` berisi contoh variabel lingkungan. **Salin ke `.env`** dan isi dengan nilai asli sebelum menjalankan aplikasi.
+- Jangan commit `.env`, dump database, backup, atau data pelanggan ke git.
+- Selalu gunakan dummy data dan fixture lokal untuk pengembangan.
+
 ## Catatan
 
 - `codex-starter` sengaja ringan. Jika nanti butuh workflow yang lebih kaya, tambahkan repo skills, custom agents, atau stack devops secara bertahap.
-- Gunakan `.env.example`, dummy data, dan fixture lokal. Jangan commit secret atau data pelanggan.
 - Aturan model dan workflow OpenAI/Codex ada di `AGENTS.md` dan `docs/codex-model-strategy.md`.
