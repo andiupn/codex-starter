@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "updated_at": "2026-05-26",
+  "entries": [
+    {
+      "id": "maintenance-workflow",
+      "kind": "workflow",
+      "title": "Automatic maintenance cadence and local log",
+      "tags": [
+        "maintenance",
+        "health",
+        "workflow",
+        "log"
+      ],
+      "keywords": [
+        "maintenance-check",
+        "project-health",
+        "maintenance-log",
+        "7 days"
+      ],
+      "summary": "Repo memakai maintenance log lokal dan project-health auto mode untuk menentukan kapan audit penuh perlu dijalankan.",
+      "path": ".codex-memory/entries/maintenance-workflow.md",
+      "priority": 5,
+      "updated_at": "2026-05-26"
+    },
+    {
+      "id": "memory-tooling",
+      "kind": "workflow",
+      "title": "Memory helper tooling in repo",
+      "tags": [
+        "memory",
+        "tooling",
+        "workflow"
+      ],
+      "keywords": [
+        "memory-find",
+        "memory-upsert",
+        "memory-health",
+        "index",
+        "entries"
+      ],
+      "summary": "Repo menyediakan helper ringan untuk lookup, audit, dan update memory melalui index dan entry files yang ringkas.",
+      "path": ".codex-memory/entries/memory-tooling.md",
+      "priority": 5,
+      "updated_at": "2026-05-26"
+    },
+    {
+      "id": "project-purpose",
+      "kind": "project",
+      "title": "Project purpose and Codex workflow defaults",
+      "tags": [
+        "project",
+        "template",
+        "codex",
+        "workflow"
+      ],
+      "keywords": [
+        "starter template",
+        "codex",
+        "openai",
+        "governance",
+        "memory",
+        "research"
+      ],
+      "summary": "Template repo ini menyediakan governance, memory, research, dan workflow dasar untuk kerja berbasis Codex/OpenAI tanpa membawa data privat dari workspace asal.",
+      "path": ".codex-memory/entries/project-purpose.md",
+      "priority": 5,
+      "updated_at": "2026-05-26"
+    },
+    {
+      "id": "rules-governance",
+      "kind": "workflow",
+      "title": "Rules governance architecture",
+      "tags": [
+        "rules",
+        "governance",
+        "codex",
+        "maintenance"
+      ],
+      "keywords": [
+        "AGENTS",
+        "rules-health",
+        "docs",
+        "source of truth"
+      ],
+      "summary": "AGENTS.md adalah source of truth perilaku agent, didukung docs rules dan scripts health untuk verifikasi perubahan governance.",
+      "path": ".codex-memory/entries/rules-governance.md",
+      "priority": 5,
+      "updated_at": "2026-05-26"
+    },
+    {
+      "id": "system-environment",
+      "kind": "environment",
+      "title": "Portable workspace and filesystem guidance",
+      "tags": [
+        "environment",
+        "filesystem",
+        "linux",
+        "windows"
+      ],
+      "keywords": [
+        "windows",
+        "linux",
+        "git bash",
+        "ext4",
+        "btrfs",
+        "filesystem",
+        "workspace"
+      ],
+      "summary": "Template ini diasumsikan dipakai lintas Windows dan Linux; workspace Linux native di bawah HOME lebih stabil untuk git, install, cache, dan browser tooling.",
+      "path": ".codex-memory/entries/system-environment.md",
+      "priority": 5,
+      "updated_at": "2026-05-26"
+    },
+    {
+      "id": "user-workflow-defaults",
+      "kind": "preference",
+      "title": "User workflow defaults",
+      "tags": [
+        "user",
+        "workflow",
+        "preferences"
+      ],
+      "keywords": [
+        "project-health",
+        "memory lookup",
+        "verification",
+        "minimal changes"
+      ],
+      "summary": "Kerja non-trivial dimulai dari project-health, lalu memory lookup selektif, lalu implementasi dan verifikasi minimal yang bermakna.",
+      "path": ".codex-memory/entries/user-workflow-defaults.md",
+      "priority": 5,
+      "updated_at": "2026-05-26"
+    }
+  ]
+}

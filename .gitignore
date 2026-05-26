@@ -1,0 +1,83 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local sync tooling (FreeFileSync)
+*.ffs_db
+*.ffs_lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.python-version
+.pytest_cache/
+.mypy_cache/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.pyo
+*.pyd
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.eslintcache
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.settings/
+.classpath
+
+# Logs and Temps
+*.log
+logs/
+tmp/
+archives/
+backups/
+
+# Build and generated outputs
+build/
+dist/
+coverage/
+htmlcov/
+.turbo/
+*.tsbuildinfo
+next-env.d.ts
+
+# App runtime data
+.runtime-data/
+active/**/.runtime-data/**
+!active/**/.runtime-data/
+!active/**/.runtime-data/README.md
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Docker local stack runtime files
+devops/docker/.env
+devops/docker/.env.*
+!devops/docker/.env.docker.example
+!devops/docker/.env.docker.stage.example
+devops/docker/generated/*
+!devops/docker/generated/.gitkeep
+devops/docker/imports/**
+!devops/docker/imports/**/
+!devops/docker/imports/**/.gitkeep
