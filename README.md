@@ -37,20 +37,47 @@ python3 scripts/research-health.py
 ./scripts/research-find.py model
 ```
 
-## Distribusi
+## Distribusi & Lisensi
 
-- lisensi default: lihat `LICENSE`
-- panduan kontribusi: lihat `CONTRIBUTING.md`
-- monetisasi donasi: lihat `DONATE.md` dan `.github/FUNDING.yml`
+- **Lisensi:** MIT License (lihat [LICENSE](LICENSE) - Copyright Andi UPN)
+- **Panduan Kontribusi:** Lihat [CONTRIBUTING.md](CONTRIBUTING.md)
+- **Panduan Donasi:** Lihat [DONATE.md](DONATE.md)
+
+---
+
+## 💖 Dukung Proyek Ini (Donasi)
+
+Template starter ini gratis dan open-source. Jika bermanfaat, pertimbangkan untuk mendukung:
+
+| Platform | Link Dukungan | Keterangan |
+|---|---|---|
+| ☕ **Ko-fi** | [ko-fi.com/andiupn](https://ko-fi.com/andiupn) | Internasional (PayPal, CC) |
+| 🎨 **Patreon** | [patreon.com/AndiUpn](https://patreon.com/AndiUpn) | Bulanan/Subscription |
+| 🇮🇩 **Trakteer** | [trakteer.id/andi_upn](https://trakteer.id/andi_upn) | Lokal Indonesia |
+| 🇮🇩 **Saweria** | [saweria.co/andiupn](https://saweria.co/andiupn) | Lokal Indonesia |
+
+---
+
+## 💎 Upgrade ke PRO
+
+`codex-starter` sengaja dirancang sangat ringan. Untuk fitur orkestrasi skala profesional:
+
+| LITE (Gratis) | PRO ($1-5) |
+|---|---|
+| standard gpt-5.5 | gpt-5.5 & gpt-5.4-mini |
+| No Custom Agents | 3 Custom Agents (governance, benchmark, dsb.) |
+| No Workflow Skills | 5 Premium Skills (curator, extractor, git-sync, dsb.) |
+| Simple struktur | Status-first Monorepo (`active/`, `staging/`, dsb.) |
+| No Devops Config | Docker Compose local stack template |
+
+👉 **[Dapatkan Edisi PRO di kuncimu.com](https://kuncimu.com)** · Detail perbandingan: [COMPARISON.md](COMPARISON.md)
+
+---
 
 ## Keamanan & Placeholder
 
 - **GANTI semua nilai placeholder** sebelum menggunakan repo ini.
-- File `.env.example` berisi contoh variabel lingkungan. **Salin ke `.env`** dan isi dengan nilai asli sebelum menjalankan aplikasi.
+- File `.env.example` berisi contoh variabel lingkungan. **Salin ke `.env`** dan isi dengan email Anda (`andi.upn@gmail.com`) dan token autentikasi riil sebelum digunakan.
 - Jangan commit `.env`, dump database, backup, atau data pelanggan ke git.
 - Selalu gunakan dummy data dan fixture lokal untuk pengembangan.
-
-## Catatan
-
-- `codex-starter` sengaja ringan. Jika nanti butuh workflow yang lebih kaya, tambahkan repo skills, custom agents, atau stack devops secara bertahap.
-- Aturan model dan workflow OpenAI/Codex ada di `AGENTS.md` dan `docs/codex-model-strategy.md`.
+- Aturan model dan workflow OpenAI/Codex ada di [AGENTS.md](AGENTS.md) dan [docs/codex-model-strategy.md](docs/codex-model-strategy.md).

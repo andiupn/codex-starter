@@ -1,11 +1,9 @@
-github: []
-patreon: ""
-open_collective: ""
-ko_fi: ""
-tidelift: ""
-community_bridge: ""
-liberapay: ""
-issuehunt: ""
-otechie: ""
+# GitHub Sponsor button configuration for Codex Starter
+# Created by andiupn — kuncimu.com
+
+ko_fi: andiupn
+patreon: AndiUpn
 custom:
-  - "https://example.com/donate"
+  - https://trakteer.id/andi_upn
+  - https://saweria.co/andiupn
+  - https://kuncimu.com
