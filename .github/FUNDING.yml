@@ -1,9 +1,8 @@
-# GitHub Sponsor button configuration for Codex Starter
-# Created by andiupn — kuncimu.com
+# GitHub Sponsors and donation configurations
+# Documentation: https://docs.github.com/admin/identity-and-access-management/managing-iam-for-your-enterprise/configuring-sponsorship-buttons
 
-ko_fi: andiupn
+github: [andiupn]
 patreon: AndiUpn
-custom:
-  - https://trakteer.id/andi_upn
-  - https://saweria.co/andiupn
-  - https://kuncimu.com
+ko_fi: andiupn
+trakteer: andi_upn
+custom: ['https://saweria.co/andiupn']
