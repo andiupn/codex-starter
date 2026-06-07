@@ -34,4 +34,4 @@ Setiap kontribusi, sekecil apa pun, sangat berarti dan sangat dihargai! ❤️
 
 Jika Anda membutuhkan workspace monorepo multi-project yang dirancang untuk freelancer profesional/agensi, cobalah **PRO Edition**:
 
-👉 **[Dapatkan Codex PRO di kuncimu.com](https://kuncimu.com)**
+👉 **[Dapatkan Codex PRO di GitHub Sponsors](https://github.com/sponsors/andiupn?frequency=monthly)**

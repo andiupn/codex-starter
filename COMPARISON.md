@@ -24,7 +24,7 @@
 | Redistribution allowed | ✅ | ❌ |
 | Komersial (proyek klien & internal) | ✅ | ✅ |
 | Dukungan Email | Best-effort (Komunitas) | Best-effort (No SLA - Prioritas Tinggi) |
-| Pembaruan Berkelanjutan | Via GitHub | Via kuncimu.com |
+| Pembaruan Berkelanjutan | Via GitHub | Via [GitHub Sponsors](https://github.com/sponsors/andiupn?frequency=monthly) |
 
 ---
 
@@ -49,7 +49,7 @@
 
 Jika Anda sudah menggunakan versi LITE dan ingin beralih ke PRO:
 
-1. Dapatkan lisensi resmi versi PRO di **[kuncimu.com](https://kuncimu.com)**.
+1. Dapatkan lisensi resmi versi PRO di **[GitHub Sponsors](https://github.com/sponsors/andiupn?frequency=monthly)**.
 2. Unduh berkas repositori `codex-pro`.
 3. Pindahkan berkas kode proyek Anda yang sudah ada dari `src/` versi Starter ke direktori `active/web/<nama-proyek>` di versi PRO.
 4. Sesuaikan konfigurasi file `AGENTS.md` Anda.
@@ -63,4 +63,4 @@ Tidak ada lock-in — Anda dapat kembali ke versi LITE kapan saja secara bebas.
 - **Pertanyaan Umum / Masalah:** Silakan buat Issue di GitHub [github.com/andiupn](https://github.com/andiupn).
 - **Pertanyaan Pra-Penjualan PRO:** Hubungi kami melalui email di **andi.upn@gmail.com**.
 
-👉 **[Dapatkan Edisi PRO di kuncimu.com](https://kuncimu.com)**
+👉 **[Dapatkan Edisi PRO di GitHub Sponsors](https://github.com/sponsors/andiupn?frequency=monthly)**

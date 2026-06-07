@@ -14,7 +14,7 @@
 </div>
 
 > 📦 Free template by **andiupn** ([kuncimu.com](https://kuncimu.com)) · Licensed under [MIT License](LICENSE)  
-> ☕ If useful, [buy me a coffee](https://ko-fi.com/andiupn) · 🚀 Need professional monorepos? Try the [PRO version](https://kuncimu.com)
+> ☕ If useful, [buy me a coffee](https://ko-fi.com/andiupn) · 🚀 Need professional monorepos? Try the [PRO version](https://github.com/sponsors/andiupn?frequency=monthly)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub release](https://img.shields.io/github/v/release/andiupn/codex-starter)](https://github.com/andiupn/codex-starter/releases)
@@ -55,7 +55,7 @@ Prerequisites checked and verified automatically via `./scripts/project-health.s
 | Simple structure | Status-first Monorepo (`active/`, `staging/`, etc.) |
 | No DevOps Configuration | Reusable Docker Compose local stack template |
 
-👉 **[Get the PRO Edition at kuncimu.com](https://kuncimu.com)** · Full details: [COMPARISON.md](COMPARISON.md)
+👉 **[Get the PRO Edition on GitHub Sponsors](https://github.com/sponsors/andiupn?frequency=monthly)** · Full details: [COMPARISON.md](COMPARISON.md)
 
 ---
 
