@@ -1,7 +1,5 @@
-# GitHub Sponsors and donation configurations
-# Documentation: https://docs.github.com/admin/identity-and-access-management/managing-iam-for-your-enterprise/configuring-sponsorship-buttons
+# GitHub Sponsors and donation links
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
 
 github: [andiupn]
-ko_fi: andiupn
-trakteer: andi_upn
-custom: ['https://saweria.co/andiupn']
+ko_fi: AndiUpn
